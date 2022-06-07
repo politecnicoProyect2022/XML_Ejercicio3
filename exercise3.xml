@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="exercise3.xsd">
+<!--DOCTYPE productos SYSTEM "exercise3.dtd">
+
+<productos-->
+    <producto>
+        <raton>
+            <codigo>35667</codigo>
+            <nombre>raton GT35</nombre>
+            <descripcion>Importacion china</descripcion>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>4574</codigo>
+            <nombre>teclado logitech 46</nombre>
+        </teclado>
+    </producto>
+    <producto>
+        <monitor>
+            <codigo>34684</codigo>
+        </monitor>
+    </producto>
+</productos>
